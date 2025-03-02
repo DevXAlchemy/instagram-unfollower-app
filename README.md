@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Application  
 ```bash
-streamlit run app/main.py
+streamlit run instagram_unfollowers.py
 ```
 
 ## 🔑 How It Works  
